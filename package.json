@@ -21,6 +21,7 @@
     "jsonwebtoken": "^9.0.2",
     "mangodb": "^1.0.0",
     "mongoose": "^8.2.3",
+    "nodemon": "^2.0.20",
     "stripe": "^15.4.0"
   }
 }

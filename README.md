@@ -1,0 +1,1 @@
+to create and connect to backend create .env and .env.txt in the backend folder in  .env.txt enter the port in which backend you want to connect and in .env give PORT= port number, MONGO_URI= YOUR MONGO DB ATLAS URL, JWT_SCRETE_KEY= RANDOM LETTERS MAY INCLUCE NUMBERS, TO RUN GO TO THE DIRECTORY AND TYPE npm start run-dev to start the server
